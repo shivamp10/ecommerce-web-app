@@ -1,5 +1,6 @@
 ## ecommerce-web-app
-This is responsive Ecommerce web app created by using React. This project mainly focuses on front-end development.
+This is responsive Ecommerce web app created by using React. This project mainly focuses on front-end development.<br>
+Website Link: [https://shivamstore.netlify.app/](https://shivamstore.netlify.app/)
 
 ### Technology used:
 **React**
@@ -15,10 +16,10 @@ This is responsive Ecommerce web app created by using React. This project mainly
 
 ### Functionality:
 - Filter products by:
-   -  category
-   -  company
-   -  color
-   -  price
+   - category
+   - company
+   - color
+   - price
 - Sort products by:
     - name a-z
     - name z-a
@@ -27,7 +28,6 @@ This is responsive Ecommerce web app created by using React. This project mainly
 - Search products
 - Add to cart
 - Responsive
-
 
 
 
