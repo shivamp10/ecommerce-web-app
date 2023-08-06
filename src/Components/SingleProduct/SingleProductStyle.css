@@ -1,0 +1,17 @@
+
+.grid-two-columns{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding-top: 5rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    column-gap: 2rem;
+    align-items: center;
+}
+
+.img-grid{
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 10px;
+    align-items: center;
+}

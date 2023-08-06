@@ -1,0 +1,32 @@
+
+.colors-container{
+    position: relative;
+   display: flex;
+   opacity: 0.5;
+   align-items: center;
+   justify-content: center;
+}
+
+.colors-container:hover{
+    opacity: 1;
+}
+
+.active{
+    opacity: 1;
+}
+.icon{
+    color: white;
+    width: 55%;
+    position: absolute;
+    visibility: hidden;
+}
+.icon-active{
+    visibility: visible;
+}
+
+.btn-colors{
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: none;
+}

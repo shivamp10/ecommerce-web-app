@@ -1,0 +1,12 @@
+
+.cart-container{
+    display: grid;
+    grid-template-rows: 1fr 0.1fr 1.5fr 0.1fr 1fr;
+}
+
+.five-columns{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-items: center;
+    align-items: center;
+}

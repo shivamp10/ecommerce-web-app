@@ -1,0 +1,21 @@
+
+.grid-two-columns-product{
+    display: grid;
+    grid-template-columns: 0.2fr 1fr;
+    padding: 5rem;
+    background-color: rgb(243 244 246)
+}
+
+.grid-two-rows{
+   display: grid;
+    grid-template-rows: 5rem 1fr;
+    
+}
+
+.grid-three-columns-p{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 3rem;
+    justify-items: center;
+    grid-row-gap: 3rem;
+}
