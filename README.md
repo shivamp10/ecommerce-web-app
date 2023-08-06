@@ -1,16 +1,19 @@
-
+## ecommerce-web-app
 This is responsive Ecommerce web app created by using React. This project mainly focuses on front-end development.
 
-## Technology used:
+### Technology used:
 **React**
 
-## Framework:
+
+### Framework:
 **Tailwind css**
 
-## Storage:
+
+### Storage:
 **Local storage**
 
-## Functionality:
+
+### Functionality:
 - Filter products by:
    -  category
    -  company
@@ -21,9 +24,9 @@ This is responsive Ecommerce web app created by using React. This project mainly
     - name z-a
     - price(lowest)
     - price(highest)
--Search products
--Add to cart
--Responsive
+- Search products
+- Add to cart
+- Responsive
 
 
 
